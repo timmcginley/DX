@@ -1,0 +1,25 @@
+{"success":true,
+"resource":
+	{"private":false,
+	"canRead":[],
+	"canWrite":[],
+	"anonymousComments":false,
+	"comments":[],
+	"name":null,
+	"geometryHash":null,
+	"hash":"c9b13d522be1bcad5d136c0b8e56e845",
+	"applicationId":null,
+	"properties":null,
+	"deleted":false,
+	"parent":null,
+	"children":[],
+	"ancestors":[],
+	"_id":"5dcac8a31cfb765d3fa622fc",
+	"type":"String",
+	"value":"sQja6bSoh",
+	"owner":"5ca34c982c2e42182ec11677",
+	"__v":0,
+	"createdAt":"2019-11-12T14:58:43.907Z",
+	"updatedAt":"2019-11-12T14:58:43.907Z"
+}
+}

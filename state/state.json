@@ -1,0 +1,54 @@
+[
+
+{
+"id":"0",
+"speckle":"0SeDGc0Fx",
+"name":"Analyse the System Requirements",
+"button_name":"Requirements",
+"desc":"Analyse the systems requirements fro your selected system inspired by System Engineering.",
+"tasks": [
+	"Need to display all the reqs",
+	"Also need to analyse them"
+	]
+},
+
+{
+"id":"1",
+"speckle":"sQja6bSoh",
+"name":"Design an Interoperable System",
+"button_name":"Design systems",
+"desc":"Design your system so that it satisfies the requirements of the other systems and your system requirements. Document this system.",
+"tasks": [
+	"Displays the systems",
+	"Describes the interoperabilty of the systems",
+	"<i>maybe future - </i>configure the systems and their relationship",
+	"leading to 10 line code"
+	]
+},
+
+
+{
+"id":"2",
+"speckle":"sQja6bSoh",
+"name":"Design a Working Prototype",
+"button_name":"Prototype",
+"desc":"Integrate various technical requirements into the development of a working prototype of a design system using agile design principles.",
+"tasks": [
+	"displays the output", "shows if it all comes together"
+	]
+},
+
+{
+"id":"3",
+"speckle":"sQja6bSoh",
+"name":"Evaluate Success of System",
+"button_name":"Check",
+"desc":"Define the system success factors. Evaluate the success of your design system.",
+"tasks": [
+	"Checks system outputs against the requirements",
+	"this is where we would query the BIM"
+	]
+}
+
+]
+

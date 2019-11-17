@@ -1,0 +1,57 @@
+{"success":true,
+"message":"Delivered stream.",
+"resource":{
+	"_id":"5dcac8461cfb765d3fa622fb",
+	¨"private":false,
+	"canRead":[],
+	"canWrite":[],
+	"anonymousComments":false,
+	"comments":[],
+	"name":"Root",
+	"description":"This is a simple speckle stream.",
+	"tags":[],
+	"isComputedResult":false,
+	"objects":[
+		{
+		"type":"Placeholder",
+		"_id":"5dcac8a31cfb765d3fa622fc"
+		},
+		{"type":"Placeholder",
+		"_id":"5dcac8d31cfb765d3fa622fe"
+		}
+	],
+	"layers":[
+	{
+		"name":"Design Team",
+		"guid":"07eb3265-6711-4ae1-aa8e-1a5c04a663fb",
+		"orderIndex":0,
+		"startIndex":0,
+		"objectCount":1,
+		"topology":"0-1 "
+	},
+	{
+		"name":"Setup",
+		"guid":"11e54106-6ff7-46eb-affa-0e80031804bb",
+		"orderIndex":1,
+		"startIndex":1,
+		"objectCount":1,
+		"topology":"0-1 "
+	}
+	],
+	"viewerLayers":[],
+	"parent":null,
+	"children":[],
+	"ancestors":[],
+	"deleted":false,
+	"onlineEditable":false,
+	"owner":"5ca34c982c2e42182ec11677",
+	"streamId":"TXJM8gikN",
+	"createdAt":"2019-11-12T14:57:10.162Z",
+	"updatedAt":"2019-11-12T14:59:32.162Z",
+	"__v":8,
+	"baseProperties":{"units":"Millimeters",
+	"tolerance":0.01,
+	"angleTolerance":0.017453292519943295},
+	"globalMeasures":{}
+	}
+}
